@@ -1,2 +1,2 @@
-# tribesyco.github.io
+# tribesy-creative
 Tribesy co. website

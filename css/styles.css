@@ -1,0 +1,18 @@
+a {
+    color: white;
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('../font/Lobster_1.4.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar li {
+    margin-top: 0.25%;
+}
