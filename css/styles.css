@@ -16,3 +16,41 @@ a {
 .navbar li {
     margin-top: 0.25%;
 }
+
+.phone {
+    margin: 3%;
+}
+
+.textbar {
+    position: absolute;
+    top: 80%;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.parallax {
+    height: 110%;
+    background: url(img/kuva2.jpg) no-repeat;
+    background-size: cover;    
+    position: fixed; 
+    width: 100%;
+}
+
+.parallax-outer {
+    height: 100%;
+}
+
+.parallaxunder {
+    position: absolute;
+    background-color: black;
+    width: 100%;
+}
+
+.titletext {
+    margin-top: 250px;
+    font-size: 120px;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2); 
+    font-weight: 600;
+}
