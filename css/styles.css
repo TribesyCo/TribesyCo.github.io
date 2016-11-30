@@ -54,3 +54,29 @@ a {
     text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2); 
     font-weight: 600;
 }
+
+.teamrow {
+    margin-top: 4%; 
+    position: relative; 
+    left: 50%;
+    margin-left: -25%;
+}
+
+.row img {
+    width: 75%;
+}
+
+.block-wrapper {
+    width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+    .row {
+        left: 0;
+        margin-left: 0;
+    }
+    
+    .block-wrapper {
+        width: 100%;
+    }
+}
